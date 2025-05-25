@@ -135,7 +135,3 @@ uv run ./client.py
 ## 🤝 贡献
 
 欢迎提交Issue和Pull Request来改进项目！
-
-## 📄 许可证
-
-本项目基于MIT许可证开源。
